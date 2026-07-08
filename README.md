@@ -98,7 +98,7 @@ insurance-claims-agent/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/insurance-claims-agent.git
+git clone https://github.com/PavitraVaidya/insurance-claims-agent.git
 ```
 
 Replace `PavitraVaidya` with your GitHub username.
