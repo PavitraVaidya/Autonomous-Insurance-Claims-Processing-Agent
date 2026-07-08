@@ -1,0 +1,41 @@
+Policy Number: POL12345
+
+Policyholder: John Smith
+
+Effective Dates: 01-Jan-2026 to 31-Dec-2026
+
+Date: 05-Jul-2026
+
+Time: 3:45 PM
+
+Location: Bangalore
+
+Description:
+Minor collision while parking.
+
+Claimant:
+John Smith
+
+Third Parties:
+None
+
+Contact Details:
+9876543210
+
+Asset Type:
+Car
+
+Asset ID:
+KA01AB1234
+
+Estimated Damage:
+15000
+
+Claim Type:
+Vehicle
+
+Attachments:
+Photos
+
+Initial Estimate:
+15000

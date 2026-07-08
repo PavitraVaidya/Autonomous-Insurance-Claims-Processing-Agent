@@ -1,0 +1,23 @@
+{
+    "extractedFields": {
+        "policy_number": "POL12345",
+        "policyholder_name": "John Smith",
+        "effective_dates": "01-Jan-2026 to 31-Dec-2026",
+        "incident_date": "05-Jul-2026",
+        "incident_time": "3:45 PM",
+        "location": "Bangalore",
+        "description": "Minor collision while parking.",
+        "claimant": "John Smith",
+        "third_parties": "None",
+        "contact_details": "9876543210",
+        "asset_type": "Car",
+        "asset_id": "KA01AB1234",
+        "estimated_damage": 15000,
+        "claim_type": "Vehicle",
+        "attachments": "Photos",
+        "initial_estimate": 15000
+    },
+    "missingFields": [],
+    "recommendedRoute": "Fast-track",
+    "reasoning": "Estimated damage is below \u20b925,000."
+}
