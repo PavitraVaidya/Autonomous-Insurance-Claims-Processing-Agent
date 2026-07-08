@@ -77,7 +77,6 @@ insurance-claims-agent/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-└── venv/
 ```
 
 ---
@@ -102,7 +101,7 @@ insurance-claims-agent/
 git clone https://github.com/your-username/insurance-claims-agent.git
 ```
 
-Replace `your-username` with your GitHub username.
+Replace `PavitraVaidya` with your GitHub username.
 
 ---
 
